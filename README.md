@@ -23,6 +23,6 @@ Here's the [link](https://www.java.com/en/download/help/path.xml) to do this.
   * At depth 5, program takes around 20 seconds to process single move. So select 5 if you have a lot of time.
   * After depth selection, you can start playing.
 ## Screenshots:
-![Player selection window](https://github.com/coder-singh/Chess-Engine/blob/master/screenshots/player.PNG)
-![Depth selection window](https://github.com/coder-singh/Chess-Engine/blob/master/screenshots/depth.PNG)
+![Player selection window](https://github.com/coder-singh/Chess-Engine/blob/master/screenshots/player.PNG)  
+![Depth selection window](https://github.com/coder-singh/Chess-Engine/blob/master/screenshots/depth.PNG)  
 ![Game play](https://github.com/coder-singh/Chess-Engine/blob/master/screenshots/game.PNG)
